@@ -1,4 +1,4 @@
-Hello, my name is Valentin. I am a Junior Data Scientist and a student at WU Vienna. I am into Machine Learning, Web Automation and BI. I work with Python, R, pandas, scikit-learn, TensorFlow, etc. I also specialize in Finance alongside with the Data Science field.
+Hello, my name is Valentin. I am a Junior Data Scientist and a student at WU Vienna. I am into Machine Learning, Web Automation and BI. I work with Python, Pandas and NumPy, scikit-learn, TensorFlow, etc. I also specialize in Finance alongside with the Data Science field.
 *******************
 My latest projects:
 
