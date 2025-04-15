@@ -6,7 +6,7 @@ Hello, I'm Valentin - a Junior Data Scientist and a student at WU Vienna with a 
 
 - Python, pandas, NumPy
 
-- scikit-learn, TensorFlow, Databricks
+- SQL, scikit-learn, TensorFlow, Databricks
 
 - Data preprocessing, modeling, and analysis
 
