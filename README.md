@@ -37,7 +37,7 @@ This notebook performs exploratory data analysis (EDA) on retail store performan
 
 Includes data cleaning, feature transformation, and visualization to uncover customer behavior and business insights.
 
-Tech Used: pandas, matplotlib, data wrangling, EDA
+Tech Used: pandas, data wrangling, EDA
 
 
 
