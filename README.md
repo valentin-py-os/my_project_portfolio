@@ -1,5 +1,3 @@
-📂 My Latest Projects:
-
 📊 Store Analytics Project
 
 This notebook performs exploratory data analysis (EDA) on retail store performance data. It analyzes key metrics like:
